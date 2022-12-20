@@ -1,1 +1,1 @@
-# CENG489_DATA_MINING_TERM_PROJECT
+# CENG489 dersinin dönem sonu proje ödevi
